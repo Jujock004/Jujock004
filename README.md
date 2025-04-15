@@ -2,13 +2,13 @@
 
 ## 👩‍💻 Full Stack Web Developer in Training
 
-Coming from a marketing background, I'm currently immersed in an exciting journey to become a Full Stack Developer. I'm driven by the desire to bring ideas to life through creative solutions. My background gives me a unique perspective on crafting meaningful and user-centric web applications.
+After 5 years in marketing, I decided to shift toward web development to bring ideas to life through creative digital solutions. I recently completed an intensive full stack bootcamp at Wild Code School. I'm currently interning at OpenStudio, working on the migration of a mobile app from Ionic + Angular to Ionic + React.
 
 ## 🎯 Current Focus
-- 📚 Training at Wild Code School
-- 🔍 Seeking apprenticeship opportunities
-- 💻 Building personal & collaborative projects
-- 🤝 Open to collaborate on interesting projects
+- 🚀 Web Development Internship at OpenStudio
+- 🔎 Seeking a 1-2 years apprenticeship starting in September
+- 💼 Applying and expanding my skills in a professional environment
+- 🤝 Open to collaborate on meaningful projects
 
 ## 💻 Tech Stack
 
@@ -26,22 +26,26 @@ Coming from a marketing background, I'm currently immersed in an exciting journe
 
 ## 🛠️ Projects
 
-### Projet Digital Origins ⏱️ *work in progress*
+### [JESTONE](https://github.com/Jujock004/jestone) ⏱️ *2 months*
    - Description: Developing a freemium OTT video hosting platform
-   - Technologies used: **REACT**, **Express.js**, **MySQL**
+   - Technologies used: **React**, **Express.js**, **MySQL**
+
+### [Ohé](https://github.com/Jujock004/ohe) ⏱️ 2 weeks
+   - Community events platform with secure authentication and dynamic event management
+   - Technologies used: **React**, **Express.js**, **MySQL**
 
 ### [Pokémon Arena](https://github.com/Jujock004/toulouse-p2-pokemon-arena) ⏱️ *4 weeks*
    - Description: Development of an interactive Pokédex and tournament system in a 4-person team
-   - Technologies used: **REACT**, **TYPESCRIPT**, **API REST** (PokéAPI)
+   - Technologies used: **React**, **TypeScript**, **REST API** (PokéAPI)
 
 ###  [Wildly Done](https://github.com/Jujock004/Project-1-TD3.github.io) ⏱️ *2 weeks*
    - Description: Development of a task management application in a 4-person team
    - Technologies used: **HTML5**, **CSS3**, **JavaScript**
 
 ## 💼 Looking for Apprenticeship
-- Work-study program (Alternance)
-- Available from: **March 17**
-- Eager to apply and enhance skills in a professional environment
+- Contract type: Work-study program (Alternance) - 1-2 years
+- Available from: **September 2025**
+- Goal: Earn a level-6 professional certification (Bac +3)
 
 ## 📫 How to reach me
 
