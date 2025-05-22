@@ -6,6 +6,7 @@ After 5 years in marketing, I decided to shift toward web development to bring i
 
 ## 🎯 Current Focus
 - 🚀 Web Development Internship at OpenStudio
+- 📚 Learning CS50
 - 🔎 Seeking a 1-2 years apprenticeship starting in September
 - 💼 Applying and expanding my skills in a professional environment
 - 🤝 Open to collaborate on meaningful projects
