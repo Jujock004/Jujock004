@@ -44,7 +44,7 @@ After 5 years in marketing, I decided to shift toward web development to bring i
    - Technologies used: **HTML5**, **CSS3**, **JavaScript**
 
 ## 💼 Looking for Apprenticeship
-- Contract type: Work-study program (Alternance) - 1-2 years
+- Contract type: Work-study program (Alternance) - 1-3 years
 - Available from: **September 2025**
 - Goal: Earn a level-6 professional certification (Bac +3)
 
